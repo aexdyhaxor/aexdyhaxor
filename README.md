@@ -7,4 +7,6 @@
   <img src="https://img.shields.io/badge/GOLANG-BINARY-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-WEB-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/SQLMAP-AUTOMATION-FF4500?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/KALI%20LINUX-TERMINAL-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-WEB-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
