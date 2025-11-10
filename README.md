@@ -4,7 +4,7 @@
 -->
 <meta name="google-site-verification" content="Ylyo_QiDSfp6eTE_OC5J0ZoUL1RywYNtiHNWDQekB4A" />
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=000000&text=aexdyhaxor&textBg=false&fontColor=00ff00&fontAlign=50&animation=twinkling&descAlignY=50&fontAlignY=56" alt="aexdyhaxor"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=fefdff&text=aexdyhaxor&textBg=false&fontColor=00baf9&fontAlign=50&animation=twinkling&descAlignY=50&fontAlignY=56" alt="aexdyhaxor"/>
 </h1>
 
 <p align="center">
