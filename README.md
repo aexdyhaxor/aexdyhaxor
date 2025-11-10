@@ -1,15 +1,42 @@
-<!--
-  Welcome to the GitHub profile of aexdyhaxor.
-  Crafted for clarity, edge, and hacker spirit.
--->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=fefdff&text=SuperSmoky&textBg=false&fontColor=000102&fontAlign=50&animation=twinkling&descAlignY=50&fontAlignY=56" alt="SuperSmoky"/>
-</h1>
+<div align="center">
+ <pre>  /$$$$$$  /$$      /$$  /$$$$$$  /$$   /$$ /$$     /$$
+ /$$__  $$| $$$    /$$$ /$$__  $$| $$  /$$/|  $$   /$$/
+| $$  \__/| $$$$  /$$$$| $$  \ $$| $$ /$$/  \  $$ /$$/ 
+|  $$$$$$ | $$ $$/$$ $$| $$  | $$| $$$$$/    \  $$$$/  
+ \____  $$| $$  $$$| $$| $$  | $$| $$  $$     \  $$/   
+ /$$  \ $$| $$\  $ | $$| $$  | $$| $$\  $$     | $$    
+|  $$$$$$/| $$ \/  | $$|  $$$$$$/| $$ \  $$    | $$    
+ \______/ |__/     |__/ \______/ |__/  \__/    |__/    
+                                                       
+                                                       
+                                                       `
+</pre>
+</div>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=Software%20Enginering%20And%20security%20engineer;I+Love+Security+:%3E">
+</div>
 
-<p align="center">
-  <strong>Ethical Hacker & Security Researcher</strong><br>
-  <code>"You can’t patch human curiosity — so I learned to use mine ethically."</code>
-</p>
+<div align="center">
+ <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+ <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+ <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</div>
+
+<br>
+
+<div align="center">
+<samp>
+ 🖖 Code Lover | 🔐 Security Engineer | ☕️ Coffe Lover | 🌵 Web Developer | 💻 Bug Hunter
+ </samp>
+ <br>
+ <samp>
+   <div>I'm not responsible for what you guys do using my tools!</div>
+ <b>I Hope You Enjoy My Tools</b>
+ <br>
+ <b>My Telegram Channel : https://t.me/bukansmoky</b>
+ </samp>
+</div>
 
 <p align="center">
   <!-- Programming Languages -->
