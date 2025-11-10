@@ -41,8 +41,6 @@
 
 ---
 
-github-profile-trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=aexdyhaxor&theme=discord&no-frame=true&margin-w=15)
-
-github-profile-trophy
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aexdyhaxor&theme=tokyonight_duo)
+![github contribution grid snake animation](https://raw.githubusercontent.com/aexdyhaxor/USERNAME/output/github-contribution-grid-snake-dark.svg)
