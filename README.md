@@ -38,44 +38,29 @@
  </samp>
 </div>
 
-<p align="center">
-  <!-- Programming Languages -->
-<img src="https://img.shields.io/badge/Python-Scripts-3776AB?style=for-the-badge&logo=python" alt="Python"/>
-<img src="https://img.shields.io/badge/Bash-Terminal-121011?style=for-the-badge&logo=gnubash" alt="Bash"/>
-<img src="https://img.shields.io/badge/GoLang-Binary-00ADD8?style=for-the-badge&logo=go" alt="Golang"/>
-<img src="https://img.shields.io/badge/PHP-Web-777BB4?style=for-the-badge&logo=php" alt="PHP"/>
-<img src="https://img.shields.io/badge/Perl-Scripting-39457E?style=for-the-badge&logo=perl" alt="Perl"/>
-<img src="https://img.shields.io/badge/Ruby-Tools-CC342D?style=for-the-badge&logo=ruby" alt="Ruby"/>
-
-<!-- Web Frameworks -->
-<img src="https://img.shields.io/badge/Laravel-Framework-F05340?style=for-the-badge&logo=laravel" alt="Laravel"/>
-<img src="https://img.shields.io/badge/CodeIgniter-Framework-EF4223?style=for-the-badge&logo=codeigniter" alt="CodeIgniter"/>
-<img src="https://img.shields.io/badge/React-Library-61DAFB?style=for-the-badge&logo=react" alt="React"/>
-<img src="https://img.shields.io/badge/JavaScript-Code-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/JSON-Data-000000?style=for-the-badge&logo=json" alt="JSON"/>
-
-<!-- Security Tools -->
-<img src="https://img.shields.io/badge/Burp-Suite-orange?style=for-the-badge&logo=burpsuite" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Nmap-Scanner-0070A0?style=for-the-badge&logo=nmap" alt="Nmap"/>
-<img src="https://img.shields.io/badge/SQLMap-Automation-red?style=for-the-badge" alt="SQLMap"/>
-<img src="https://img.shields.io/badge/Dirsearch-Fuzzing-4B8BBE?style=for-the-badge" alt="Dirsearch"/>
-<img src="https://img.shields.io/badge/HTTPX-Recon-000000?style=for-the-badge" alt="httpx"/>
-<img src="https://img.shields.io/badge/Subfinder-Enum-2E8B57?style=for-the-badge" alt="Subfinder"/>
-<img src="https://img.shields.io/badge/Nuclei-Scanner-008080?style=for-the-badge" alt="Nuclei"/>
-<img src="https://img.shields.io/badge/Metasploit-Exploit-3C78D8?style=for-the-badge&logo=metasploit" alt="Metasploit"/>
-<img src="https://img.shields.io/badge/Cryptography-Encrypto-darkgreen?style=for-the-badge" alt="Crypto"/>
-
-<!-- System & DevOps -->
-<img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=linux" alt="Linux"/>
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-Version Control-F05032?style=for-the-badge&logo=git" alt="Git"/>
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/MySQL-DB-4479A1?style=for-the-badge&logo=mysql" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-DB-4169E1?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/SQLite-DB-003B57?style=for-the-badge&logo=sqlite" alt="SQLite"/>
-
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
+ <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+ <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white">
+ <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white">
+ <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white">
+ <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=121111">
+ <img src="https://img.shields.io/badge/perl-%2339457E.svg?style=flat-square&logo=perl&logoColor=white">
+ <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white">
+ <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white">
+ <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+ 
+</div>
 
 ---
 
