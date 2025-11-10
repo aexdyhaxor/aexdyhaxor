@@ -54,7 +54,7 @@
 
 ## 🧠 About Me
 
-> **aexdyhaxor** is a curious mind walking the fine line between breaking and building.  
+> **SuperSmoky** is a curious mind walking the fine line between breaking and building.  
 > Focused on **offensive security**, I enjoy uncovering web vulnerabilities, building custom recon tools, and reproducing real-world exploits for learning and awareness.  
 > My background includes bug bounty hunting, CTFs, and continuous research on how systems fail — so we can build them stronger.
 
