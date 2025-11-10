@@ -41,3 +41,5 @@
 
 ---
 
+![trophy](https://github-profile-trophy.vercel.app/?username=aexdyhaxor&theme=discord&no-frame=true&margin-w=15)
+
