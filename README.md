@@ -41,11 +41,3 @@
 
 ---
 
-<p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-  <br>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark)
-  <br>
-  ![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark)
-</p>
-
