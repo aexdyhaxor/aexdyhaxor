@@ -3,7 +3,7 @@
   Crafted for clarity, edge, and hacker spirit.
 -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=fefdff&text=aexdyhaxor&textBg=false&fontColor=000102&fontAlign=50&animation=twinkling&descAlignY=50&fontAlignY=56" alt="SuperSmoky"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=fefdff&text=SuperSmoky&textBg=false&fontColor=000102&fontAlign=50&animation=twinkling&descAlignY=50&fontAlignY=56" alt="SuperSmoky"/>
 </h1>
 
 <p align="center">
