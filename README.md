@@ -29,3 +29,16 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+
+---
+
+### 🧠 About Me
+- 💻 Passionate about Cyber Security & Linux Privilege Escalation
+- 🧩 Enjoys scripting in Python, Bash, and Go
+- 🔍 Loves finding vulnerabilities and writing exploits responsibly
+- 🐧 Runs everything on Linux servers
+
+---
+
+
