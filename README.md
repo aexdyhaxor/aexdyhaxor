@@ -88,13 +88,13 @@
 
 ## 🧪 Projects
 
-🔒 [`ZeroTnT-Attack`](#) *(Private)*  
+🔒 [`Cloaking Redirect 302`](#) *(Private)*  
 <sub>Red team research, offensive experiments & internal training modules.</sub>
 
-⚙️ [`ZeroTools`](https://github.com/aexdyhaxor/ZeroTools)  
+⚙️ [`Trigger`](https://github.com/aexdyhaxor/trigger)  
 <sub>Recon & scanning automation for web bug bounty engagements.</sub>
 
-📝 [`SecNotes`](https://github.com/aexdyhaxor/SecNotes)  
+📝 [`ShellBackdoor`](https://github.com/aexdyhaxor/shellbackdoor)  
 <sub>Real-world exploit writeups, CVE reproductions, and PoC notes.</sub>
 
 ---
